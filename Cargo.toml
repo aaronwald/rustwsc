@@ -1,0 +1,8 @@
+[package]
+name = "rustwsc"
+version = "0.1.0"
+authors = ["Aaron Wald <aaronwald@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+ws = '*'
